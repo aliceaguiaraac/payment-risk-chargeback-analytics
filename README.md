@@ -94,5 +94,7 @@ This makes it possible to evaluate the commercial implications of an approval st
 - Financial Impact Analysis
 - Data Visualization
 
+## Report Preview
 
+![Retail Sales & Customer Analytics Dashboard](paybackanalysis.png)
 
