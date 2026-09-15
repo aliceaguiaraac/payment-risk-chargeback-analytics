@@ -1,6 +1,6 @@
 # Payment Risk & Chargeback Analytics
 
-<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiMjIxNGY3M2MtYjVlMC00MTVmLTk5ZjEtZjVlODg0NGRhZThlIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Payment Risk & Chargeback Analytics</a></p>
+<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiMjIxNGY3M2MtYjVlMC00MTVmLTk5ZjEtZjVlODg0NGRhZThlIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Payment Risk & Chargeback Analytics</a></p>
 
 Power BI risk analytics project developed to evaluate transaction approval decisions, chargeback exposure and the financial impact of a risk classification model.
 
