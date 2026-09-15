@@ -1,8 +1,6 @@
 # Payment Risk & Chargeback Analytics
 
-<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiMjIxNGY3M2MtYjVlMC00MTVmLTk5ZjEtZjVlODg0NGRhZThlIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Payment Risk & Chargeback Analytics</a></p>
-
-Power BI risk analytics project developed to evaluate transaction approval decisions, chargeback exposure and the financial impact of a risk classification model.
+A Power BI risk analytics project developed to evaluate transaction approval decisions, chargeback exposure and the financial impact of a risk classification model.
 
 The dashboard connects model performance with business outcomes by analysing approval rates, classification thresholds, approved GMV, chargeback costs and the revenue required to absorb fraud-related losses.
 
@@ -94,6 +92,5 @@ This makes it possible to evaluate the commercial implications of an approval st
 - Financial Impact Analysis
 - Data Visualization
 
-## Dashboard Preview
 
-![Payment Risk & Chargeback Analytics](paybackanalysis.png)
+<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiMjIxNGY3M2MtYjVlMC00MTVmLTk5ZjEtZjVlODg0NGRhZThlIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Payment Risk & Chargeback Analytics</a></p>
