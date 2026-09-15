@@ -4,6 +4,7 @@ A Power BI risk analytics project developed to evaluate transaction approval dec
 
 The dashboard connects model performance with business outcomes by analysing approval rates, classification thresholds, approved GMV, chargeback costs and the revenue required to absorb fraud-related losses.
 
+<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiMjIxNGY3M2MtYjVlMC00MTVmLTk5ZjEtZjVlODg0NGRhZThlIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Payment Risk & Chargeback Analytics</a></p>
 ## Business Objective
 
 The analysis focuses on balancing two competing objectives:
@@ -93,4 +94,4 @@ This makes it possible to evaluate the commercial implications of an approval st
 - Data Visualization
 
 
-<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiMjIxNGY3M2MtYjVlMC00MTVmLTk5ZjEtZjVlODg0NGRhZThlIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Payment Risk & Chargeback Analytics</a></p>
+
