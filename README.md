@@ -96,5 +96,5 @@ This makes it possible to evaluate the commercial implications of an approval st
 
 ## Report Preview
 
-![Retail Sales & Customer Analytics Dashboard](paybackanalysis.png)
+![Retail Sales & Customer Analytics Dashboard](paybackanalytics.png)
 
